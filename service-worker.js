@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/compeclub.com/precache-manifest.982ef35a48853c9ee7063cea36d273d1.js"
+  "/compeclub.com/precache-manifest.b383004d8cb283e687f4f973785ac79e.js"
 );
 
 self.addEventListener('message', (event) => {
