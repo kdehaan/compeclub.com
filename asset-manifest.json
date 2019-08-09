@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/compeclub.com/static/css/main.19393e92.chunk.css",
+    "main.js": "/compeclub.com/static/js/main.8745bcf6.chunk.js",
+    "main.js.map": "/compeclub.com/static/js/main.8745bcf6.chunk.js.map",
+    "runtime~main.js": "/compeclub.com/static/js/runtime~main.82420e37.js",
+    "runtime~main.js.map": "/compeclub.com/static/js/runtime~main.82420e37.js.map",
+    "static/js/2.4f057907.chunk.js": "/compeclub.com/static/js/2.4f057907.chunk.js",
+    "static/js/2.4f057907.chunk.js.map": "/compeclub.com/static/js/2.4f057907.chunk.js.map",
+    "index.html": "/compeclub.com/index.html",
+    "precache-manifest.982ef35a48853c9ee7063cea36d273d1.js": "/compeclub.com/precache-manifest.982ef35a48853c9ee7063cea36d273d1.js",
+    "service-worker.js": "/compeclub.com/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/compeclub.com/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/compeclub.com/static/media/logo.5d5d9eef.svg"
+  }
+}
