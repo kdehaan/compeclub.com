@@ -14,7 +14,6 @@
     "react-scripts": "3.0.1",
     "typescript": "3.5.3"
   },
-  "homepage": "http://kdehaan.github.io/compeclub.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
