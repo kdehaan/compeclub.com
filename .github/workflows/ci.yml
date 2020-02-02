@@ -23,5 +23,5 @@ jobs:
     needs: [build]
     runs-on: [ubuntu-latest]
     steps:
-      - run: github-pages-deploy
+      - run: npm deploy
         
