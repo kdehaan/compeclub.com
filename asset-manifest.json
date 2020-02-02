@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/compeclub.com/static/css/main.69eda509.chunk.css",
-    "main.js": "/compeclub.com/static/js/main.cfdea3ae.chunk.js",
-    "main.js.map": "/compeclub.com/static/js/main.cfdea3ae.chunk.js.map",
-    "runtime~main.js": "/compeclub.com/static/js/runtime~main.82420e37.js",
-    "runtime~main.js.map": "/compeclub.com/static/js/runtime~main.82420e37.js.map",
-    "static/js/2.875128ea.chunk.js": "/compeclub.com/static/js/2.875128ea.chunk.js",
-    "static/js/2.875128ea.chunk.js.map": "/compeclub.com/static/js/2.875128ea.chunk.js.map",
-    "index.html": "/compeclub.com/index.html",
-    "precache-manifest.b383004d8cb283e687f4f973785ac79e.js": "/compeclub.com/precache-manifest.b383004d8cb283e687f4f973785ac79e.js",
-    "service-worker.js": "/compeclub.com/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/compeclub.com/static/css/main.69eda509.chunk.css.map"
-  }
+    "main.css": "/static/css/main.69eda509.chunk.css",
+    "main.js": "/static/js/main.6472ca41.chunk.js",
+    "main.js.map": "/static/js/main.6472ca41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c33f89fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c33f89fa.js.map",
+    "static/js/2.f46c35e4.chunk.js": "/static/js/2.f46c35e4.chunk.js",
+    "static/js/2.f46c35e4.chunk.js.map": "/static/js/2.f46c35e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f76c284b57e9a5fff50650d73063e9bb.js": "/precache-manifest.f76c284b57e9a5fff50650d73063e9bb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.f46c35e4.chunk.js.LICENSE.txt": "/static/js/2.f46c35e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c33f89fa.js",
+    "static/js/2.f46c35e4.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.6472ca41.chunk.js"
+  ]
 }
