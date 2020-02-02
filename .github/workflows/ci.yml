@@ -20,8 +20,8 @@ jobs:
         env:
           CI: true
   deploy:
+    needs: [build]
     runs-on: [ubuntu-latest]
     steps:
-      - run: build
       - run: github-pages-deploy
         
