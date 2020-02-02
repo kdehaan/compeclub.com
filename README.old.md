@@ -1,1 +1,0 @@
-compeclub.com
